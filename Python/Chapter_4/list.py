@@ -1,0 +1,10 @@
+foods = []
+print("Enter your 3 favourite foods name :-")
+food1 = input('Enter food 1 : ')
+food2 = input('Enter food 2 : ')
+food3 = input('Enter food 3 : ')
+foods.append(food1)
+foods.append(food2)
+foods.append(food3)
+print("Your favourite foods is :" , foods)
+print("Total foods :" , len(foods))

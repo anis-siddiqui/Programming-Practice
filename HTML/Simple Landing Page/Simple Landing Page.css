@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+#topnav{
+    background-color: rgb(0, 9, 40);   
+}
+
+.top{
+    margin: 10px 0px 10px 10px;
+    display: inline-block;
+    color: white;
+}
+
+#links{
+    display: inline-block;
+    width: 75vw;
+    text-align: end;
+}

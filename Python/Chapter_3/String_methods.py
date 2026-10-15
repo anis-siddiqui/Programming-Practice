@@ -1,0 +1,5 @@
+str1 = input('Enter sentence : ')
+str2 = str1.lower()
+str3 = str2.replace(" " , "_")
+print("Original string is =" , str1)
+print("Modified string is =" , str3)

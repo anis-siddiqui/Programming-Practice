@@ -1,0 +1,13 @@
+# Compiled files and binaries
+*.exe
+*.o
+*.class
+*.dll
+*.jar
+
+# Data and text files
+*.txt
+*.dat
+
+# VS Code settings
+.vscode/

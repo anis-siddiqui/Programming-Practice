@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+nav,footer,header,main{
+    text-align: center;
+}
+nav,footer{
+    background-color: rgb(187, 125, 245);
+}
+#links{
+    padding: 10px 0px 15px 0px;
+}
+a{
+    padding: 0px 20px 0px 20px;
+}
+#heading1{
+    padding-top: 10px;
+}
+#heading2{
+    padding-top: 40px;
+}
+header{
+    background-color: rgb(24, 33, 33);
+    color: aliceblue;
+}
+#headerpara{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+main{
+    background-color: beige;
+}
+#heading3{
+    padding: 10px 0px 40px 0px;
+}
+table{
+    margin-left: 100px;
+}
+#pizzas,#pasta{
+    border: 2px solid rgb(10, 10, 10);
+    width: 400px;
+    
+}
+.blank{
+    width: 200px;
+}
+#burgers,#drinks{
+    border: 2px solid rgb(10, 10, 10);
+    width: 400px;
+}
+#footerpara{
+    padding: 20px 0px;
+}
