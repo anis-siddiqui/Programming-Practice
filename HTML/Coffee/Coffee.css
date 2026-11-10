@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    width:100%;
+    height:100%;
+    background-color: #ffe4bd;
+}
+
+.navbar{
+    padding:4px 0px 15px 0px;
+    background-color: #4b2e24cb;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title{
+    margin-left:20px;
+    font-size: 20px;
+}
+
+a{
+    color:whitesmoke;
+    font-size: 20px;
+}
+
+.sections{
+    display:flex;
+    gap:30px;
+    margin-right:20px;
+}
+
+.home{
+    display:flex;   
+    justify-content: space-around;
+}
+
+.content{
+    margin:20px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content h2{
+    text-align: center;
+    margin-left: 30px;
+    font-size: 60px;
+}
+
+.content p{
+    text-align: center;
+    margin-left: 30px;
+    margin-top:20px;
+    font-size: 40px;
+}
+
+button{
+    font-size:20px;
+    margin-top:30px;
+    border:none;
+    border-radius:15px;
+    padding:18px;
+    background-color: #C58B55;
+    color:white;
+}
+
+.image img{
+    margin-top:30px;
+    border-radius: 30px;
+    width: 400px;
+    height:450px;
+}
+
+.Specialities{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.special1, .special2, .special3{
+    text-align: center;
+    width:350px;
+}
+.special1 h2, .special2 h2, .special3 h2{
+    font-size: 30px;
+}
+
+img{
+    margin-top:30px;
+    border-radius: 30px;
+    width: 300px;
+    height: 350px;
+}
+
+
